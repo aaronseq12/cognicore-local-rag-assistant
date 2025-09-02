@@ -9,11 +9,10 @@ Enterprises and individuals have critical knowledge scattered across numerous do
 CogniCore solves this by using powerful, open-source models that run directly on your CPU. It ingests your local documents (PDFs, Markdown), creates a private knowledge base, and allows you to ask complex questions in natural language. Your data never leaves your machine.
 
 ---
-
 ## Live Demo
 A quick look at the CogniCore assistant answering a question about the internal HR policy.
 
-![CogniCore Demo](https://raw.githubusercontent.com/aaronseq12/cognicore-local-rag-assistant/main/demo.png)
+![CogniCore Demo Screenshot](https://raw.githubusercontent.com/aaronseq12/cognicore-local-rag-assistant/main/demo.png)
 ---
 
 ## Tech Stack & Architecture
