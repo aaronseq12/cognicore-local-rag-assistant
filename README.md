@@ -11,7 +11,7 @@ CogniCore solves this by using powerful, open-source models that run directly on
 ---
 
 ## Live Demo
-![CogniCore Demo GIF](Screenshot 2025-09-02 142603.png)
+![CogniCore Demo GIF](Screenshot-2025-09-02-142603.png)
 
 ---
 
