@@ -11,7 +11,7 @@ CogniCore solves this by using powerful, open-source models that run directly on
 ---
 
 ## Live Demo
-![CogniCore Demo GIF]([Screenshot-2025-09-02-142603.png](https://github.com/aaronseq12/cognicore-local-rag-assistant/blob/main/Screenshot%202025-09-02%20142603.png))
+!([CogniCore Demo GIF](https://github.com/aaronseq12/cognicore-local-rag-assistant/blob/main/Screenshot%202025-09-02%20142603.png))
 
 ---
 
