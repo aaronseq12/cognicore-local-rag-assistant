@@ -40,7 +40,7 @@ Follow these steps to get CogniCore running on your own machine.
 
 **1. Clone the Repository:**
 ```bash
-git clone [https://github.com/your-username/cognicore_local.git](https://github.com/your-username/cognicore_local.git)
+git clone [https://github.com/aaronseq12/cognicore_local.git](https://github.com/aaronseq12/cognicore_local.git)
 cd cognicore_local
 ```
 
