@@ -11,8 +11,9 @@ CogniCore solves this by using powerful, open-source models that run directly on
 ---
 
 ## Live Demo
-!([CogniCore Demo GIF](https://github.com/aaronseq12/cognicore-local-rag-assistant/blob/main/Screenshot%202025-09-02%20142603.png))
+A quick look at the CogniCore assistant answering a question about the internal HR policy.
 
+![CogniCore Demo](https://raw.githubusercontent.com/aaronseq12/cognicore-local-rag-assistant/main/demo.png)
 ---
 
 ## Tech Stack & Architecture
